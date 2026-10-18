@@ -1,0 +1,14 @@
+target/
+.immich-uploader/
+.m2repo/
+.tmp/
+.smoke/
+.smoke-state/
+logs/
+integration-*/
+
+.idea/
+.vscode/
+*.iml
+*.log
+.DS_Store
